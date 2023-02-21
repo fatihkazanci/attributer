@@ -1,7 +1,7 @@
 # AttributerLibrary
 Interceptor yapısından faydalanarak oluşturulan bir Attribute kütüphanesidir.Bu kütüphane herhangi bir metodunuzun çalışmadan öncesinde veya çalıştıktan sonrasında istediğiniz bir işlemin gerçekleştirilmesini sağlar.
 # Installation
-You can start with creating a ExcelStreamer object.
+You can start with creating a Attributer object.
 ```csharp
 IExample productBusiness = AttributerPatcher<IExample, Example>.Create();
 ```
