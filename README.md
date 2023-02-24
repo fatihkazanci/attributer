@@ -85,7 +85,11 @@ namespace BusinessLibrary.Business
 
 # AttributerError
 Çağırılmak istenen metot hata verdiğinde, hata bilgilerinin tutulduğu nesnedir.
+
 **Exception:** Hata bilgilerinin tutulduğu nesne.
+
 **ErrorLine:** Hatanın gerçekleştiği satır numarası.
+
 **ErrorMethod:** Hatanın olduğu metot.
+
 **CallingParentMethods:** Hatanın olduğu metotun hangi diğer metotlardan çağırıldığını gösteren property.
