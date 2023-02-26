@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqLtbaOKNI7s7OwOW+Rux44yBaTVpGOnCloEi7hcQ6mRvHDQ93WFMChvaZ7MO7sliXLcgJWS8P/URs1XsTRIsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CyberFamera\\source\\repos\\Api.Example\\AttributerLibrary\\AttributerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnvKyBC59aSZ/uVaOR7sJFlapSuGWJyb2IZZQn4ioYJ2Q5gpgMuO8aHGRYX5THHHxwUrDYxTWoygzndWEV0RnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CyberFamera\\source\\repos\\Api.Example\\Console.Example\\Console.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\CyberFamera\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\bin\Debug\net6.0\AttributerLibrary.deps.json
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\bin\Debug\net6.0\AttributerLibrary.dll
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\bin\Debug\net6.0\AttributerLibrary.pdb
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.csproj.AssemblyReference.cache
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.AssemblyInfoInputs.cache
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.AssemblyInfo.cs
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.dll
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\refint\AttributerLibrary.dll
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\AttributerLibrary.pdb
+C:\Users\CyberFamera\source\repos\Atoni.Api\AttributerLibrary\obj\Debug\net6.0\ref\AttributerLibrary.dll
