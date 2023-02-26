@@ -73,7 +73,7 @@ AttributerContextThe is the object where various information is stored.
 
 **Arguments:** Property which brings parameter values of the called Method. 
 
-**Result:**Property that indicating successful completion of Attribute. The default value is **true**. Example: The Method won’t work if you write the value as **false** in OnBeforeExecute method.  
+**Result:** Property that indicating successful completion of Attribute. The default value is **true**. Example: The Method won’t work if you write the value as **false** in OnBeforeExecute method.  
 
 **Error:** Property that stores error details if the called Method gets an error.
 
