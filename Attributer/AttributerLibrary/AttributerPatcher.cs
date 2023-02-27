@@ -21,17 +21,24 @@ namespace AttributerLibrary
             AttributerPatcher<IService, Service>? attriPatcher = Create<IService, AttributerPatcher<IService, Service>>()
              as AttributerPatcher<IService, Service>;
 
-            ParameterInfo[] targetMethodParams = typeof(Service).GetConstructors()[0].GetParameters();
-            object[] requiredServices = new object[targetMethodParams.Length];
-            for (int i = 0; i < targetMethodParams.Length; i++)
+            ParameterInfo[]? targetMethodParams = typeof(Service).GetConstructors()?[0].GetParameters();
+            int targetMethodParamsLength = 0;
+            if (targetMethodParams?.Length > 0)
             {
-                object? currentService = serviceProvider.GetService(targetMethodParams[i].ParameterType);
-                if (currentService is not null)
+                targetMethodParamsLength = targetMethodParams.Length;
+            }
+            object[] requiredServices = new object[targetMethodParamsLength];
+            if (targetMethodParams is not null)
+            {
+                for (int i = 0; i < targetMethodParamsLength; i++)
                 {
-                    requiredServices[i] = currentService;
+                    object? currentService = serviceProvider.GetService(targetMethodParams[i].ParameterType);
+                    if (currentService is not null)
+                    {
+                        requiredServices[i] = currentService;
+                    }
                 }
             }
-
             if (attriPatcher is not null)
             {
                 attriPatcher.TargetService = (Service?)Activator.CreateInstance(typeof(Service), requiredServices);
